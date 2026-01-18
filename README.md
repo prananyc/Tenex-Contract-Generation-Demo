@@ -19,6 +19,7 @@ Mid-market home builders waste a significant amount of time on manual contract g
 -> Filing and CRM updates
 
 **Annual Impact for 300+ contracts:**
+
 -> 350+ hours of manual administrative work
 -> $72,000 in fully-loaded labor costs
 -> 2-3 day contract turnaround delays revenue recognition
