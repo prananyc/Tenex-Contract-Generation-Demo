@@ -1,14 +1,13 @@
 Tenex-Contract-Generation-Demo
 This is a contract generation workflow prototype for the Tenex AI Strategist application. This workflow is projected to reduce contract creation time from average 70 minutes to 45 seconds, saving $72K annually for mid-market home builders.
 
-Contract Generation Workflow - Tenex AI Strategist Application
-
-Built by: Pranavi Jatoo (Prana)  
-Purpose: Demonstrating strategic workflow design and technical execution for Tenex's AI Strategist role
+**Contract Generation Workflow - Tenex AI Strategist Application**
+Built by: Pranavi Jatoo **(Prana)** 
+Purpose: Demonstrating strategic workflow design and technical execution for Tenex's **AI Strategist** role
 
 ---
 
-🎯 Problem Statement
+**Problem Statement**
 
 Mid-market home builders waste a significant amount of time on manual contract generation. The traditional process involves:
 
@@ -19,7 +18,7 @@ Mid-market home builders waste a significant amount of time on manual contract g
 -> Manual document routing and signature collection
 -> Filing and CRM updates
 
-Annual Impact for 300+ contracts:
+**Annual Impact for 300+ contracts:**
 -> 350+ hours of manual administrative work
 -> $72,000 in fully-loaded labor costs
 -> 2-3 day contract turnaround delays revenue recognition
@@ -27,33 +26,37 @@ Annual Impact for 300+ contracts:
 
 ---
 
-💡 My Solution
+**My Solution**
 
-AI-automated contract generation workflow that:
+AI contract generation workflow that:
 1. Pulls deal data directly from CRM
 2. Uses Claude API to generate customized contracts
 3. Auto-routes for digital signature
 4. Auto-files and updates systems
 5. Implements smart follow-up logic
 
-Process time: 45 seconds (92% reduction in time taken)
+Process time: 45 seconds (**92% reduction** in time taken)
 
 ---
 
-📊 The WHY- Business Impact
+**The WHY- Business Impact**
 
 | Metric | Before | After | Improvement |
 |--------|--------|-------|-------------|
-| Time per contract | 70 minutes | 45 seconds | 92% faster |
-| Annual labor cost | $72,000 | $6,000 | $66K saved |
-| Contract turnaround | 2-3 days | Same day | Faster revenue |
-| Data entry errors | ~5-8% | <1% | 95% reduction |
+| Time per contract | 70 minutes | 45 seconds | **92% faster** |
+| Annual labor cost | $72,000 | $6,000 | **$66K saved** |
+| Contract turnaround | 2-3 days | Same day | **Faster revenue** |
+| Data entry errors | ~5-8% | <1% | **95% reduction** |
 
-ROI Timeline: 2-3 weeks to implement, immediate payback
+ROI Timeline: 2-3 weeks to implement, **immediate** payback
 
 ---
+**Documentation (my favorite part)**
+Workflow diagrams
 
-🎥 Demo Video
+
+
+**Demo Video**
 
 [Watch the 9-minute walkthrough →] ( link to be added)
 
@@ -63,6 +66,13 @@ In this video, I explain:
 -> Expected business impact and ROI
 -> Key technical choices and trade-offs
 -> Implementation approach for a real client engagement
+
+**Documentation** (my favorite part)
+
+Workflow Diagrams: Visual comparison of manual vs automated process
+Technical Specifications: System requirements, integrations, data flows
+Implementation Plan: 6-week phased rollout strategy
+ROI Analysis: Detailed cost savings calculations
 
 ---
 
