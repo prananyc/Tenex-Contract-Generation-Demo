@@ -51,10 +51,6 @@ Process time: 45 seconds (**92% reduction** in time taken)
 ROI Timeline: 2-3 weeks to implement, **immediate** payback
 
 ---
-**Documentation (my favorite part)**
-Workflow diagrams
-
-
 
 **Demo Video**
 
@@ -69,10 +65,10 @@ In this video, I explain:
 
 **Documentation** (my favorite part)
 
-Workflow Diagrams: Visual comparison of manual vs automated process
-Technical Specifications: System requirements, integrations, data flows
-Implementation Plan: 6-week phased rollout strategy
-ROI Analysis: Detailed cost savings calculations
+-> Workflow Diagrams: Visual comparison of manual vs automated process
+-> Technical Specifications: System requirements, integrations, data flows
+-> Implementation Plan: 6-week phased rollout strategy
+-> ROI Analysis: Detailed cost savings calculations
 
 ---
 
